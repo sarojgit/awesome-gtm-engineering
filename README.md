@@ -18,6 +18,8 @@ A curated list of Awesome GTM Engineering tools, tutorials, and resources.
 
 * [Clay](https://www.clay.com/) - The GTM Engineering OS
 
+* [EarlyLore](https://earlylore.com/) - Research workspace for founders: study real SaaS products, revenue signals and competitor changes before you build
+
 ### Linkedin Outbound
 
 * [Heyreach](https://www.heyreach.io/) - Linkedin outbound with unlimited senders
