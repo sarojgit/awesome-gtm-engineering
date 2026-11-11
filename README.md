@@ -17,6 +17,7 @@ A curated list of Awesome GTM Engineering tools, tutorials, and resources.
 ## Tools
 
 * [Clay](https://www.clay.com/) - The GTM Engineering OS
+* [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.
 
 ### Linkedin Outbound
 
